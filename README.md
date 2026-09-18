@@ -6,7 +6,6 @@
 
 Building scalable mobile applications with Swift & Flutter
 
-Currently at **Sistema Solutions**
 
 <br>
 
